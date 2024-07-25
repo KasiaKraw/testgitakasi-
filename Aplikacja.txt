@@ -4,3 +4,9 @@
         System.out.println("Podaj proszę poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+ public void logowanieGoogle() {
+
+        System.out.println("Podaj email z gmaila");
+        System.out.println("Podaj proszę poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
